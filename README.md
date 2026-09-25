@@ -44,6 +44,6 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anacmdiniz&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacmdiniz&layout=compact&theme=dracula&hide_border=true" height="150" alt="Linguagens" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/report?username=anacmdiniz&theme=dracula" width="48%" alt="Resumo GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/report/top-languages?username=anacmdiniz&theme=dracula" width="48%" alt="Linguagens" />
 </p>
