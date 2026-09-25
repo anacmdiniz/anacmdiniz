@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- GIF Animado Clean -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2kxa3lhZjY3cW1xZncxd2VxeTFhNmg2NzRhNzF2Yzg2dThhYnY3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8KEO92Xp8S0k248qW/giphy.gif" width="160px" alt="Sloth Gif" />
+  <!-- GIF Animado Clean de Bicho-Preguiça -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueTV3aWkxbTFkczZ6Y2trY2E0MmE5bnFscTNxeDNxcG14cnlmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3uK3158R1C2YxK0O1/giphy.gif" width="160px" alt="Sloth Gif" />
 
-  # Ana Diniz 🦥
-  
+  # Ana Diniz
+
   **Desenvolvedora de Sistemas** · Técnico no **SENAI Sumaré**
   
   <br/>
