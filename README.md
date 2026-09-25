@@ -38,12 +38,3 @@
   <img src="https://img.shields.io/badge/Git-FFCBC1?style=for-the-badge&logo=git&logoColor=4A4A4A" />
   <img src="https://img.shields.io/badge/GitHub-D3CEDF?style=for-the-badge&logo=github&logoColor=4A4A4A" />
 </p>
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/report?username=anacmdiniz&theme=dracula" width="48%" alt="Resumo GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/report/top-languages?username=anacmdiniz&theme=dracula" width="48%" alt="Linguagens" />
-</p>
