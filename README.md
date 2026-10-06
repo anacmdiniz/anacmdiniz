@@ -13,6 +13,9 @@
   <a href="mailto:anacarolinamotadiniz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-EED3D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://vsco.co/anadnzz/gallery" target="_blank">
+    <img src="https://img.shields.io/badge/VSCO-D1C7BD?style=for-the-badge&logo=vsco&logoColor=white" alt="VSCO"/>
+  </a>
 
 </div>
 
